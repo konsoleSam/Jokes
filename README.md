@@ -1,5 +1,5 @@
 # Jokes
-Jokes
+Jokes 🤣
 
 >What is a donkey's favorite road material? Assphalt!
 
@@ -7,6 +7,5 @@ Jokes
 
 If you like jokes your in the right repository; a place to store a list of jokes and memes.
 
-
-
-
+>[!NOTE]
+>Please add any jokes or list any suggestions you have.
